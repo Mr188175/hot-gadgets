@@ -1,0 +1,22 @@
+.bg-light {
+    background-color: none;
+}
+
+.btn-buy-now {
+    padding: 10px 30px;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+    background-color: #000000;
+    color: #fff;
+}
+
+.container {
+    border: 2px solid black;
+    margin-bottom: 100px;
+}
+
+.carousel-item {
+    padding: 10px 30px;
+
+}
